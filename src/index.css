@@ -1,0 +1,43 @@
+body {
+	margin: 0;
+	display: flex;
+	place-items: center;
+	min-width: 320px;
+	min-height: 100vh;
+}
+
+th {
+	width: 120px;
+	padding-top: 25px;
+	padding-bottom: 30px;
+}
+
+td {
+	padding: 5px;
+	text-align: right;
+}
+
+td.Event {
+	text-align: center;
+}
+
+/* td.Event.location {
+	font-size: 12px;
+	font-weight: bold;
+} */
+
+td.Event.green {
+	background-color: #caf5de;
+}
+
+td.Event.blue {
+	background-color: #bedbe5;
+}
+
+td.Event.pink {
+	background-color: #ffc0cb;
+}
+
+.time {
+	height: 40px;
+}
