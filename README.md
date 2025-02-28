@@ -11,3 +11,6 @@ Currently, two official plugins are available:
 <img src='./src/assets/walkthrough-video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [FreeConvert](https://www.freeconvert.com/)
+
+> [!NOTE]
+> This is not my best work; this was mostly a project to understand the basics of React.
